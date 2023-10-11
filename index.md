@@ -1,3 +1,3 @@
 <html>
-  <a href="./PraivacyPolicy/PraivacyPolicy.html">プライバシーポリシー</a>
+  <a href="./PrivacyPolicy/PrivacyPolicy.html">プライバシーポリシー</a>
 </html>
